@@ -1,0 +1,33 @@
+.detail-label{
+    text-align: right;
+}
+
+.detail-input{
+    text-align: left;
+}
+
+.detail-input input{
+    width: 40%;
+}
+.detail-select{
+    width: 30%;
+}
+
+.table-detail{
+ margin-left: 5%; 
+ color: white;
+}
+.technologies-opened{
+    margin-bottom: 4%;
+}
+.technologies-opened h3{
+  margin-top: 4%; 
+}
+
+.table-title{
+   padding: 50PX 70PX 10px 70px;
+}
+
+.detail-textArea{
+    width: 40%;
+}

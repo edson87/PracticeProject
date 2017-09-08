@@ -1,0 +1,52 @@
+#careers .menu{
+	margin-bottom: 5%;
+}
+
+.careers-title {
+    color: white;
+		text-align: center;
+}
+
+.techno-wrapper {
+	text-align: center;
+}
+
+.techno-wrapper ul{
+  list-style-type: none;
+}
+
+.techno-wrapper ul li{
+	display: inline-block;
+	text-decoration: none;
+	margin: 2%;
+	max-width: 100%;	
+}
+
+.techno-wrapper .detail-container {
+	-webkit-box-shadow: 2px 10px 24px 0px rgba(0,0,0,0.45);
+  -moz-box-shadow: 2px 10px 24px 0px rgba(0,0,0,0.45);
+	box-shadow: 2px 10px 24px 0px rgba(0,0,0,0.45);
+  margin-left: -10%;
+  margin-right: -10%;
+}
+
+.techno-wrapper .detail-container .detail p {
+ margin: 0;
+ color: #726048;
+}
+
+.btn-apply{
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+
+.btn-detail{
+	background-color: #2F3238;
+	border: none;
+}
+
+.footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}

@@ -1,0 +1,246 @@
+[33mcommit 8a3ac3bc941ddb55e2b3c5604a0a5736c542f044[m
+Author: edson <none>
+Date:   Fri Sep 8 07:30:07 2017 -0400
+
+    first commit
+
+[33mcommit 2c971d4c8df4c4d5a5ec1f74b217c0f56d273f34[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Wed Aug 30 11:44:38 2017 -0400
+
+    server built coneccted with detailform, careers and apply
+
+[33mcommit 2befa97df80a409b2342da160fe17bee700943c0[m
+Merge: 101b40f 9aefa71
+Author: Pedro Lima <pedro.lima@nearshorecode.com>
+Date:   Fri Aug 25 19:30:57 2017 +0000
+
+    Merge branch 'feature/detail-and-apply-components' into 'develop'
+    
+    Detail and Apply components
+    
+    See merge request !11
+
+[33mcommit 9aefa7118c5a2098e8515acac2b6cc5766c1307d[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Wed Aug 23 15:39:27 2017 -0400
+
+    Detail and Apply components
+
+[33mcommit 101b40fd9facd8537cf3a78cad56be91d31e796b[m
+Merge: 8f21a10 a9e3708
+Author: Pedro Lima <pedro.lima@nearshorecode.com>
+Date:   Tue Aug 22 13:42:52 2017 +0000
+
+    Merge branch 'feature/build-careers-component' into 'develop'
+    
+    Uploading page careers components
+    
+    See merge request !10
+
+[33mcommit a9e3708c0081df462c84d95f83ab07bc5b0b5b69[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Mon Aug 21 10:05:03 2017 -0400
+
+    Uploadint page careers components
+
+[33mcommit 8f21a10a0c55eb8dae1ca65a1dec6dd49219e1e2[m
+Merge: 453fa12 c2b8747
+Author: Pedro Lima <pedro.lima@nearshorecode.com>
+Date:   Fri Aug 18 14:16:42 2017 +0000
+
+    Merge branch 'feature/build-components-in-technology-and-build-router' into 'develop'
+    
+    Feature/build components in technology and build router
+    
+    See merge request !9
+
+[33mcommit c2b8747d478629de7216219688d2d9c9fcf624e2[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Wed Aug 16 18:32:57 2017 -0400
+
+    Adding the routing navigation on the menu
+
+[33mcommit 2e83c3de4939bb9ef72c5f91bb87f43c436c1468[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Wed Aug 16 16:54:10 2017 -0400
+
+    Fix/Link
+
+[33mcommit 74911f0c9c974d52b48524c9b94b5372bdfdc2cd[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Wed Aug 16 14:49:01 2017 -0400
+
+    Config-Link
+
+[33mcommit c93a4e574864f9cfb1382702e21617b8aa9e6e65[m
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Wed Aug 16 10:05:34 2017 -0400
+
+    Fixed router
+
+[33mcommit 478deea8cc72f53ef89d0295ad3b08fcdc3ddba9[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Tue Aug 15 18:36:00 2017 -0400
+
+    Building the Router
+
+[33mcommit 453fa12e0e6bae8ca12ec87efcbfadea10f6e3d3[m
+Merge: a649556 d3ebaba
+Author: Pedro Lima <pedro.lima@nearshorecode.com>
+Date:   Tue Aug 15 21:30:35 2017 +0000
+
+    Merge branch 'feature/modidy-the-slider-and-menu' into 'develop'
+    
+    updating the menu and the slider
+    
+    See merge request !8
+
+[33mcommit d3ebabab0009e0cbd432e73cc9ab2e0015393389[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Mon Aug 14 16:40:04 2017 -0400
+
+    updating the menu and the slider
+
+[33mcommit a6495562e141f45594e48c768f07ec14f52e8c05[m
+Merge: f217fcb e5e8752
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Mon Aug 14 14:25:03 2017 +0000
+
+    Merge branch 'feature/slider-and-top-button' into 'develop'
+    
+    adding Slider, the back top button and the scrollable menu
+    
+    See merge request !7
+
+[33mcommit e5e875295b9ec8811b7149425b548ccd777c4d13[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Fri Aug 11 18:33:13 2017 -0400
+
+    adding Slider, the back top button and the scrollable menu
+
+[33mcommit f217fcba0932022415a275eb8cb26256183cce28[m
+Merge: 9f9f250 0757d52
+Author: Mario Camacho <mario.camacho@nearshorecode.com>
+Date:   Fri Aug 11 21:55:38 2017 +0000
+
+    Merge branch 'feature/about-us-contact-and-footer' into 'develop'
+    
+    adding  about us, contact and footer components
+    
+    See merge request !6
+
+[33mcommit 0757d529cc962b273a2bba1d00791791154baff5[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Fri Aug 11 12:49:49 2017 -0700
+
+    adding to about us, contact and footer components
+
+[33mcommit 9f9f2502dd9062e84362c2deca4607a6a0541462[m
+Merge: 9f35a24 46dceeb
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Fri Aug 11 15:59:18 2017 +0000
+
+    Merge branch 'feature/technologies-oursevices' into 'develop'
+    
+    uploading with technologies and our services components
+    
+    See merge request !5
+
+[33mcommit 46dceeb1ac900b03350600c0f752eb6af3bc6426[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Thu Aug 10 15:03:51 2017 -0700
+
+    uploading with technologies and our services
+
+[33mcommit 9f35a24a501959ddc9740a0e12a5e8bf4cf0fdd2[m
+Merge: 21b827c 31e12cc
+Author: Mario Camacho <mario.camacho@nearshorecode.com>
+Date:   Thu Aug 10 21:43:35 2017 +0000
+
+    Merge branch 'fix/tslint-libraries' into 'develop'
+    
+    Adding tslint libraries to package.json file
+    
+    See merge request !4
+
+[33mcommit 31e12cc041316d374b0b00d35c0f502acd7dba15[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Thu Aug 10 14:33:53 2017 -0700
+
+    Adding tslint libraries to package.json file
+
+[33mcommit 21b827cfb595f5bedb022d9e1495a69555443fd2[m
+Merge: 8285086 ae4293c
+Author: Mario Camacho <mario.camacho@nearshorecode.com>
+Date:   Thu Aug 10 21:09:39 2017 +0000
+
+    Merge branch 'feature/navbar' into 'develop'
+    
+    Adding Navigation Bar
+    
+    See merge request !1
+
+[33mcommit ae4293cae7dc898e80cc2d22daab7962e967e71b[m
+Author: edson <edson.lopez@nearshorecode.com>
+Date:   Thu Aug 10 13:55:14 2017 -0700
+
+    Applying code review comments
+
+[33mcommit 5e19e35d775c05510b04bc189937f27beaba2470[m
+Author: edsonlopez <edson.lopez@nearshorecode.com>
+Date:   Wed Aug 9 15:50:26 2017 -0700
+
+    Adding Navigation Bar
+
+[33mcommit 8285086bcb7da000a79180c9a32f843f5ec2474a[m
+Merge: 5902955 4557b46
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Thu Aug 10 14:46:18 2017 +0000
+
+    Merge branch 'linter' into 'develop'
+    
+    fixed warning for no-unsed-variables
+    
+    See merge request !3
+
+[33mcommit 4557b466e14812c223995f0bf93c15aa63dc5a40[m
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Thu Aug 10 10:44:55 2017 -0400
+
+    fixed warning for no-unsed-variables
+
+[33mcommit 5902955a3a957a65b173acd1fa1a41f371ed670c[m
+Merge: 940a2ab 300b7ed
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Thu Aug 10 14:40:40 2017 +0000
+
+    Merge branch 'linter' into 'develop'
+    
+    Linter
+    
+    See merge request !2
+
+[33mcommit 300b7edec860d66a57f7ba585e201bc104b7ba44[m
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Thu Aug 10 10:39:11 2017 -0400
+
+    Added linter config
+
+[33mcommit 940a2ab1cef0a12a79a8fe9615e777c5c4b11054[m
+Author: Diego Landa <diego.landa@nearshorecode.com>
+Date:   Tue Aug 8 15:15:28 2017 -0400
+
+    Switch to react
+
+[33mcommit 82204f33bbcc7bd99785cb16354f0e9d0847cc46[m
+Author: DESKTOP-UD5L9JN\Cristian <cristian60_3@hotmail.com>
+Date:   Fri Jul 28 12:36:01 2017 -0400
+
+    initial commit
+
+[33mcommit f17ea84f9ad70843f2646e5481d0bbd2e0625baa[m
+Author: Angular CLI <angular-cli@angular.io>
+Date:   Wed Jul 26 11:08:56 2017 -0400
+
+    chore: initial commit from @angular/cli

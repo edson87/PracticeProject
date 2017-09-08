@@ -1,0 +1,30 @@
+#detail{
+  text-align: center;
+}
+
+.detail-title h2{
+	text-align: center; 
+}
+
+.container-detail{
+	margin-top: 5%;
+	text-align: center;
+	font-weight: 700;
+	color: white;
+}
+
+.btn-detail{
+  margin-top: 7%;
+}
+
+.btn-detail .btn-primary{
+  background-color: #4EBD8C;
+}
+
+.btn-backDetail{
+  margin-right: 2px;
+}
+
+.btn-applyDetail{
+	margin-left: 2px;
+}

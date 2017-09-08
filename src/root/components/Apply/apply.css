@@ -1,0 +1,26 @@
+.apply h2{
+ text-align: center;
+}
+
+.apply .wrapper-apply{
+  text-align: center;
+}
+.marginLabel{
+  width: 5%;
+}
+
+.sizeInput{
+  width: 20%;
+}
+
+.updateFile{
+  text-align: center;
+}
+
+input[type=file] {
+  display: inline;
+}
+
+.footer{
+  
+}

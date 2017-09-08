@@ -1,0 +1,14 @@
+footer {
+	width: 100%;
+	background: #26292E;
+	text-align: center;
+	z-index: 99;
+}
+
+footer .credits {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin-bottom: 0;
+	padding: 20px 0;
+	text-transform: uppercase;	
+}
